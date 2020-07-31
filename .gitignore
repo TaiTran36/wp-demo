@@ -1,0 +1,6 @@
+node_modules
+/wp-content/themes/remote-office/style.css
+/wp-content/themes/remote-office/lp.css
+.idea
+.vscode
+.htaccess
